@@ -117,7 +117,7 @@ Implemented linear regression in Python:
 
 📁Files Included 
 
-. Homework 1_Solution.py 
+. Homework 1_Solution_Nikhilesh_Katakam.py 
 
 ------------------------------------------------------------------------------------------------
 
